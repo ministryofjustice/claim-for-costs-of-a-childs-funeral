@@ -15,6 +15,7 @@
     "page.full-name",
     "page.email-address",
     "page.address-uk",
+    "page._address",
     "page.address",
     "page.international-address",
     "page.family-name"

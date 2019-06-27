@@ -1,0 +1,26 @@
+{
+  "_id": "page.address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.address--text.auto_name__1",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "building_street_1"
+    },
+    {
+      "_id": "page.address--text.auto_name__2",
+      "_type": "text",
+      "label": "Building and street line 2",
+      "labelhide": true,
+      "name": "building_street_2"
+    }
+  ],
+  "heading": "What’s your home address?",
+  "show": {
+    "identifier": "is_address_uk",
+    "operator": "is",
+    "value": "yes"
+  },
+  "url": "address"
+}
