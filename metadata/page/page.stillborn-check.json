@@ -1,0 +1,14 @@
+{
+  "_id": "page.stillborn-check",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.stillborn-check--radios.auto_name__1",
+      "_isa": "radios.yes-no",
+      "_type": "radios",
+      "legend": "Is this claim about a baby who was stillborn?",
+      "name": "is_stillborn"
+    }
+  ],
+  "url": "stillborn-check"
+}

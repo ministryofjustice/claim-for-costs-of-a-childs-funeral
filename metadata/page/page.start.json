@@ -17,7 +17,8 @@
     "page.address-uk",
     "page.address",
     "page.international-address",
-    "page.family-name"
+    "page.family-name",
+    "page.stillborn-check"
   ],
   "url": "/"
 }
