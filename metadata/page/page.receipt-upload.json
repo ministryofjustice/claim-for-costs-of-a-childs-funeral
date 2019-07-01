@@ -1,0 +1,16 @@
+{
+  "_id": "page.receipt-upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.receipt-upload--fileupload.auto_name__7",
+      "_type": "fileupload",
+      "hint": "You can upload up to 10 files.",
+      "label": "Upload copies of your receipts or invoices",
+      "maxFiles": 10,
+      "name": "receipt_upload"
+    }
+  ],
+  "sectionHeadingSummary": "Upload copies of your receipts or invoices",
+  "url": "receipt-upload"
+}

@@ -21,7 +21,10 @@
     "page.stillborn-check",
     "page.date-of-stillbirth",
     "page.date-of-birth",
-    "page.date-of-funeral"
+    "page.date-of-funeral",
+    "page.funeral-location",
+    "page.what-are-you-claiming-for",
+    "page.receipt-upload"
   ],
   "url": "/"
 }
