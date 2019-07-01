@@ -1,0 +1,23 @@
+{
+  "_id": "page.date-of-birth",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-of-birth--date.auto_name__1",
+      "_type": "date",
+      "hint": "For example, 12 11 2007",
+      "label": "Child’s date of birth",
+      "name": "date_of_birth"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "is_stillborn",
+    "operator": "is",
+    "value": "no"
+  },
+  "steps": [
+    "page.date-of-childs-death"
+  ],
+  "url": "date-of-birth"
+}

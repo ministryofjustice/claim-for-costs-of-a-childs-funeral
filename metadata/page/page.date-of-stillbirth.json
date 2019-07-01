@@ -1,0 +1,19 @@
+{
+  "_id": "page.date-of-stillbirth",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-of-stillbirth--date.auto_name__1",
+      "_type": "date",
+      "hint": "For example, 12 11 2007",
+      "label": "Date of still birth",
+      "name": "date_of_stillbirth"
+    }
+  ],
+  "show": {
+    "identifier": "is_stillborn",
+    "operator": "is",
+    "value": "yes"
+  },
+  "url": "date-of-stillbirth"
+}

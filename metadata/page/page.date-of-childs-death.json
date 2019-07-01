@@ -1,0 +1,14 @@
+{
+  "_id": "page.date-of-childs-death",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-of-childs-death--date.auto_name__1",
+      "_type": "date",
+      "hint": "For example, 12 11 2007",
+      "label": "Date of child’s death",
+      "name": "date_of_childs_death"
+    }
+  ],
+  "url": "date-of-childs-death"
+}

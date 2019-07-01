@@ -1,0 +1,14 @@
+{
+  "_id": "page.date-of-funeral",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-of-funeral--date.auto_name__1",
+      "_type": "date",
+      "hint": "For example, 12 11 2007. Claims must be submitted within 6 months of this date",
+      "label": "Date of funeral",
+      "name": "date_of_funeral"
+    }
+  ],
+  "url": "date-of-funeral"
+}

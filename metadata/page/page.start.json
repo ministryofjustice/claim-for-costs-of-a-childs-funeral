@@ -18,7 +18,10 @@
     "page.address",
     "page.international-address",
     "page.family-name",
-    "page.stillborn-check"
+    "page.stillborn-check",
+    "page.date-of-stillbirth",
+    "page.date-of-birth",
+    "page.date-of-funeral"
   ],
   "url": "/"
 }
