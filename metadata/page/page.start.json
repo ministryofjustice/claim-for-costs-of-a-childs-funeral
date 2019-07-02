@@ -29,7 +29,8 @@
     "page.uk-bank-account-details",
     "page.building-society-account-details",
     "page.non-uk-bank-account-details",
-    "page.check-answers"
+    "page.check-answers",
+    "page.confirmation"
   ],
   "url": "/"
 }
