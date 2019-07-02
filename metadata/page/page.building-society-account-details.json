@@ -1,0 +1,46 @@
+{
+  "_id": "page.building-society-account-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.building-society-account-details--text.auto_name__9",
+      "_type": "text",
+      "label": "Name of building society",
+      "name": "name_of_buiding_society"
+    },
+    {
+      "_id": "page.building-society-account-details--text.auto_name__9--2",
+      "_type": "text",
+      "label": "Account name",
+      "name": "account_name"
+    },
+    {
+      "_id": "page.building-society-account-details--text.auto_name__9--3",
+      "_type": "text",
+      "label": "Account number",
+      "name": "account_number",
+      "widthClassInput": "10"
+    },
+    {
+      "_id": "page.building-society-account-details--text.auto_name__9--4",
+      "_type": "text",
+      "label": "Account roll number",
+      "name": "account_roll_number",
+      "widthClassInput": "10"
+    },
+    {
+      "_id": "page.building-society-account-details--text.auto_name__9--5",
+      "_type": "text",
+      "label": "Sort code",
+      "name": "sort_code",
+      "widthClassInput": "5"
+    }
+  ],
+  "heading": "Building society account details",
+  "show": {
+    "identifier": "how_do_you_want_to_be_paid",
+    "operator": "is",
+    "value": "uk_building_society_account"
+  },
+  "url": "building-society-account-details"
+}

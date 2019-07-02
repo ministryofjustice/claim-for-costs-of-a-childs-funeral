@@ -1,0 +1,45 @@
+{
+  "_id": "page.non-uk-bank-account-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.non-uk-bank-account-details--text.auto_name__9",
+      "_type": "text",
+      "label": "Name of bank",
+      "name": "name_of_bank"
+    },
+    {
+      "_id": "page.non-uk-bank-account-details--text.auto_name__9--2",
+      "_type": "text",
+      "label": "Account name",
+      "name": "account_name"
+    },
+    {
+      "_id": "page.non-uk-bank-account-details--text.auto_name__9--3",
+      "_type": "text",
+      "label": "International bank account number (IBAN)",
+      "name": "iban"
+    },
+    {
+      "_id": "page.non-uk-bank-account-details--text.auto_name__9--4",
+      "_type": "text",
+      "label": "SWIFT, BIC or routing code",
+      "name": "swift_or_bic_or_routing_code",
+      "widthClassInput": "20"
+    },
+    {
+      "_id": "page.non-uk-bank-account-details--text.auto_name__9--5",
+      "_type": "text",
+      "label": "Currency of account",
+      "name": "currency_of_account",
+      "widthClassInput": "full"
+    }
+  ],
+  "heading": "Bank account details",
+  "show": {
+    "identifier": "how_do_you_want_to_be_paid",
+    "operator": "is",
+    "value": "non_uk_bank_account"
+  },
+  "url": "non-uk-bank-account-details"
+}

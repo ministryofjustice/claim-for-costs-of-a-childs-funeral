@@ -1,0 +1,39 @@
+{
+  "_id": "page.uk-bank-account-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.uk-bank-account-details--text.auto_name__9",
+      "_type": "text",
+      "label": "Name of bank",
+      "name": "name_of_bank"
+    },
+    {
+      "_id": "page.uk-bank-account-details--text.auto_name__9--2",
+      "_type": "text",
+      "label": "Account name",
+      "name": "account_name"
+    },
+    {
+      "_id": "page.uk-bank-account-details--text.auto_name__9--3",
+      "_type": "text",
+      "label": "Account number",
+      "name": "account_number",
+      "widthClassInput": "10"
+    },
+    {
+      "_id": "page.uk-bank-account-details--text.auto_name__9--4",
+      "_type": "text",
+      "label": "Sort code",
+      "name": "sort_code",
+      "widthClassInput": "5"
+    }
+  ],
+  "heading": "Bank account details",
+  "show": {
+    "identifier": "how_do_you_want_to_be_paid",
+    "operator": "is",
+    "value": "uk_bank_account"
+  },
+  "url": "uk-bank-account-details"
+}

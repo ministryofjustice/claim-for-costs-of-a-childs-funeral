@@ -22,11 +22,17 @@
         {
           "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--3",
           "_type": "radio",
+          "label": "Non-UK bank account",
+          "value": "non_uk_bank_account"
+        },
+        {
+          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--4",
+          "_type": "radio",
           "label": "Cheque (in pounds sterling)",
           "value": "cheque"
         },
         {
-          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--4",
+          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--5",
           "_type": "radio",
           "hint": "We’ll contact you to arrange payment",
           "label": "None of the above",

@@ -25,7 +25,11 @@
     "page.funeral-location",
     "page.what-are-you-claiming-for",
     "page.receipt-upload",
-    "page.how-do-you-want-to-be-paid"
+    "page.how-do-you-want-to-be-paid",
+    "page.uk-bank-account-details",
+    "page.building-society-account-details",
+    "page.non-uk-bank-account-details",
+    "page.check-answers"
   ],
   "url": "/"
 }
