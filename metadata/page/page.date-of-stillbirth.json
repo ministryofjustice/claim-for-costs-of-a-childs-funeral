@@ -5,6 +5,12 @@
     {
       "_id": "page.date-of-stillbirth--date.auto_name__1",
       "_type": "date",
+      "errors": {
+        "required": {
+          "inline": "Enter the date of stillbirth",
+          "summary": "Enter the date of stillbirth"
+        }
+      },
       "hint": "For example, 12 11 2007",
       "label": "Date of still birth",
       "name": "date_of_stillbirth"

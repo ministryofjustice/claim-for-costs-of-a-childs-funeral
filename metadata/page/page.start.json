@@ -24,7 +24,8 @@
     "page.date-of-funeral",
     "page.funeral-location",
     "page.what-are-you-claiming-for",
-    "page.receipt-upload"
+    "page.receipt-upload",
+    "page.how-do-you-want-to-be-paid"
   ],
   "url": "/"
 }

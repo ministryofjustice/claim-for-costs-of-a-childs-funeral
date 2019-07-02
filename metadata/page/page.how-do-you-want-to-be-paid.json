@@ -1,0 +1,41 @@
+{
+  "_id": "page.how-do-you-want-to-be-paid",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9",
+      "_type": "radios",
+      "hint": "You can only have your claim paid into your own bank or building society account",
+      "items": [
+        {
+          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1",
+          "_type": "radio",
+          "label": "UK bank account",
+          "value": "uk_bank_account"
+        },
+        {
+          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "UK building society account",
+          "value": "uk_building_society_account"
+        },
+        {
+          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Cheque (in pounds sterling)",
+          "value": "cheque"
+        },
+        {
+          "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9--radio.auto_value__1--4",
+          "_type": "radio",
+          "hint": "We’ll contact you to arrange payment",
+          "label": "None of the above",
+          "value": "none_of_the_above"
+        }
+      ],
+      "legend": "How do you want to be paid?",
+      "name": "how_do_you_want_to_be_paid"
+    }
+  ],
+  "url": "how-do-you-want-to-be-paid"
+}
