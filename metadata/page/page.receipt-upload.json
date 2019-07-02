@@ -9,24 +9,22 @@
       "$field": true,
       "_id": "page.receipt-upload--fileupload.auto_name__7",
       "_type": "fileupload",
-      "label": "Upload copies of your receipts or invoices",
+      "label": "Upload copies of your receipts",
       "maxFiles": 10,
       "name": "auto_name__7"
     },
     {
-      "_id": "page.receipt-upload--checkboxes",
-      "_type": "checkboxes",
-      "items": [
-        {
-          "_id": "page.receipt-upload--checkboxes--checkbox.auto_name__8",
-          "_type": "checkbox",
-          "hint": "We’ll contact you to find out more. Your claim may take longer",
-          "label": "I do not have receipts or invoices",
-          "name": "auto_name__8"
-        }
-      ]
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.receipt-upload--textarea.auto_name__8",
+      "_type": "textarea",
+      "hint": "We’ll contact you to find out more. Your claim may take longer",
+      "label": "If you do not have some of your receipts, tell us why",
+      "name": "auto_name__8"
     }
   ],
-  "heading": "Upload copies of your receipts or invoices",
+  "heading": "Upload copies of your receipts",
   "url": "receipt-upload"
 }
