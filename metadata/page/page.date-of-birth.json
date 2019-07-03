@@ -5,6 +5,12 @@
     {
       "_id": "page.date-of-birth--date.auto_name__1",
       "_type": "date",
+      "errors": {
+        "required": {
+          "inline": "Enter the child’s date of birth",
+          "summary": "Enter the child’s date of birth"
+        }
+      },
       "hint": "For example, 12 11 2007",
       "label": "Child’s date of birth",
       "name": "date_of_birth"

@@ -5,6 +5,12 @@
     {
       "_id": "page.funeral-location--text.auto_name__1",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter where the funeral took place",
+          "summary": "Enter where the funeral took place"
+        }
+      },
       "label": "Name of the cemetery or crematorium",
       "name": "name_of_cemetery_or_crematorium"
     },

@@ -20,9 +20,18 @@
       "$field": true,
       "_id": "page.receipt-upload--textarea.auto_name__8",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "inline": "Enter why you do not have receipts",
+          "summary": "Enter why you do not have receipts"
+        }
+      },
       "hint": "We’ll contact you to find out more. Your claim may take longer",
       "label": "If you do not have some of your receipts, tell us why",
-      "name": "auto_name__8"
+      "name": "auto_name__8",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "heading": "Upload copies of your receipts",

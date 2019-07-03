@@ -5,6 +5,12 @@
     {
       "_id": "page.what-are-you-claiming-for--checkboxes",
       "_type": "checkboxes",
+      "errors": {
+        "required": {
+          "inline": "Select what you’re claiming for",
+          "summary": "Select what you’re claiming for"
+        }
+      },
       "hint": "Select all that apply",
       "items": [
         {

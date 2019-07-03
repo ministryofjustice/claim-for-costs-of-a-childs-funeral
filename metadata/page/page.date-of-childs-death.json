@@ -5,6 +5,12 @@
     {
       "_id": "page.date-of-childs-death--date.auto_name__1",
       "_type": "date",
+      "errors": {
+        "required": {
+          "inline": "Enter the date of child’s death",
+          "summary": "Enter the date of child’s death"
+        }
+      },
       "hint": "For example, 12 11 2007",
       "label": "Date of child’s death",
       "name": "date_of_childs_death"

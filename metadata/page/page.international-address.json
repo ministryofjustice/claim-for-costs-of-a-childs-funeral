@@ -5,6 +5,12 @@
     {
       "_id": "page.international-address--textarea.auto_name__1",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "inline": "Enter an address",
+          "summary": "Enter an address"
+        }
+      },
       "hint": "We’ll use this to pay your claim and contact you if we need to",
       "label": "What's your home address?",
       "name": "address_international"

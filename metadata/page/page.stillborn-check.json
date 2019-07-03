@@ -6,6 +6,12 @@
       "_id": "page.stillborn-check--radios.auto_name__1",
       "_isa": "radios.yes-no",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "inline": "Select yes if this claim is about a baby who was stillborn",
+          "summary": "Select yes if this claim is about a baby who was stillborn"
+        }
+      },
       "legend": "Is this claim about a baby who was stillborn?",
       "name": "is_stillborn"
     }

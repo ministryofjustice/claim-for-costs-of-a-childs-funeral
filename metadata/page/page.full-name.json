@@ -5,6 +5,12 @@
     {
       "_id": "page.full-name--text.auto_name__1",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter your full name",
+          "summary": "Enter your full name"
+        }
+      },
       "label": "Your full name",
       "name": "fullname"
     }

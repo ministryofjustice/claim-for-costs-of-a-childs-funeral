@@ -5,6 +5,12 @@
     {
       "_id": "page.family-name--text.auto_name__1",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter the family name of the child",
+          "summary": "Enter the family name of the child"
+        }
+      },
       "label": "What’s the family name of the child?",
       "name": "family_name"
     }
