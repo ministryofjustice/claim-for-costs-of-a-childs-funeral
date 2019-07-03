@@ -1,5 +1,7 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
+  "sendBody": "By submitting your claim you agree that:\r\n\r\n- the information is correct and complete as far as you know\r\n- you’ll pay back any money you’re overpaid if you’re asked to",
+  "sendHeading": "Declaration",
   "url": "check-answers"
 }

@@ -7,8 +7,8 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter where the funeral took place",
-          "summary": "Enter where the funeral took place"
+          "inline": "Enter the name of the cemetery or crematorium",
+          "summary": "Enter the name of the cemetery or crematorium"
         }
       },
       "label": "Name of the cemetery or crematorium",
@@ -17,6 +17,12 @@
     {
       "_id": "page.funeral-location--text.auto_name__1--2",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter a town or city",
+          "summary": "Enter a town or city"
+        }
+      },
       "label": "Town or city",
       "name": "town_or_city"
     }

@@ -10,6 +10,6 @@
     }
   ],
   "heading": "Your claim has been submitted",
-  "lede": "[Reference number]",
+  "lede": "Your reference number **{submissionId}**",
   "url": "confirmation"
 }

@@ -11,7 +11,10 @@
       "_type": "fileupload",
       "label": "Upload copies of your receipts",
       "maxFiles": 10,
-      "name": "auto_name__7"
+      "name": "auto_name__7",
+      "validation": {
+        "required": false
+      }
     },
     {
       "$component": true,

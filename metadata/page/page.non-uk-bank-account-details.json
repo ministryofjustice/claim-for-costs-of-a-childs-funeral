@@ -5,24 +5,48 @@
     {
       "_id": "page.non-uk-bank-account-details--text.auto_name__9",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter name of bank",
+          "summary": "Enter name of bank"
+        }
+      },
       "label": "Name of bank",
       "name": "name_of_bank"
     },
     {
       "_id": "page.non-uk-bank-account-details--text.auto_name__9--2",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter account name",
+          "summary": "Enter account name"
+        }
+      },
       "label": "Account name",
       "name": "account_name"
     },
     {
       "_id": "page.non-uk-bank-account-details--text.auto_name__9--3",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter international bank account number",
+          "summary": "Enter international bank account number"
+        }
+      },
       "label": "International bank account number (IBAN)",
       "name": "iban"
     },
     {
       "_id": "page.non-uk-bank-account-details--text.auto_name__9--4",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter SWIFT, BIC or routing code",
+          "summary": "Enter SWIFT, BIC or routing code"
+        }
+      },
       "label": "SWIFT, BIC or routing code",
       "name": "swift_or_bic_or_routing_code",
       "widthClassInput": "20"
@@ -30,6 +54,12 @@
     {
       "_id": "page.non-uk-bank-account-details--text.auto_name__9--5",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter currency of account",
+          "summary": "Enter currency of account"
+        }
+      },
       "label": "Currency of account",
       "name": "currency_of_account",
       "widthClassInput": "full"
