@@ -30,7 +30,7 @@
       "label": "If you do not have some of your receipts, tell us why",
       "name": "auto_name__8",
       "validation": {
-        "required": true
+        "required": false
       }
     }
   ],

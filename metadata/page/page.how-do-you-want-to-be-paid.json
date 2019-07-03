@@ -5,6 +5,12 @@
     {
       "_id": "page.how-do-you-want-to-be-paid--radios.auto_name__9",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "inline": "Select how you want to be paid",
+          "summary": "Select how you want to be paid"
+        }
+      },
       "hint": "You can only have your claim paid into your own bank or building society account",
       "items": [
         {

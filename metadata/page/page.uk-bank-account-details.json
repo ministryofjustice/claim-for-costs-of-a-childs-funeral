@@ -5,18 +5,36 @@
     {
       "_id": "page.uk-bank-account-details--text.auto_name__9",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter name of bank",
+          "summary": "Enter name of bank"
+        }
+      },
       "label": "Name of bank",
       "name": "name_of_bank"
     },
     {
       "_id": "page.uk-bank-account-details--text.auto_name__9--2",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter account name",
+          "summary": "Enter account name"
+        }
+      },
       "label": "Account name",
       "name": "account_name"
     },
     {
       "_id": "page.uk-bank-account-details--text.auto_name__9--3",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter account number",
+          "summary": "Enter account number"
+        }
+      },
       "label": "Account number",
       "name": "account_number",
       "widthClassInput": "10"
@@ -24,6 +42,12 @@
     {
       "_id": "page.uk-bank-account-details--text.auto_name__9--4",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter sort code",
+          "summary": "Enter sort code"
+        }
+      },
       "label": "Sort code",
       "name": "sort_code",
       "widthClassInput": "5"

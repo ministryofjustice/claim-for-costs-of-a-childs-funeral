@@ -5,18 +5,36 @@
     {
       "_id": "page.building-society-account-details--text.auto_name__9",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter name of building society",
+          "summary": "Enter name of building society"
+        }
+      },
       "label": "Name of building society",
       "name": "name_of_buiding_society"
     },
     {
       "_id": "page.building-society-account-details--text.auto_name__9--2",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter account name",
+          "summary": "Enter account name"
+        }
+      },
       "label": "Account name",
       "name": "account_name"
     },
     {
       "_id": "page.building-society-account-details--text.auto_name__9--3",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter account number",
+          "summary": "Enter account number"
+        }
+      },
       "label": "Account number",
       "name": "account_number",
       "widthClassInput": "10"
@@ -24,13 +42,22 @@
     {
       "_id": "page.building-society-account-details--text.auto_name__9--4",
       "_type": "text",
-      "label": "Account roll number",
+      "label": "Roll number (if applicable)",
       "name": "account_roll_number",
+      "validation": {
+        "required": false
+      },
       "widthClassInput": "10"
     },
     {
       "_id": "page.building-society-account-details--text.auto_name__9--5",
       "_type": "text",
+      "errors": {
+        "required": {
+          "inline": "Enter sort code",
+          "summary": "Enter sort code"
+        }
+      },
       "label": "Sort code",
       "name": "sort_code",
       "widthClassInput": "5"
