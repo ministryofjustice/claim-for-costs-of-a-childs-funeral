@@ -50,7 +50,10 @@
           "name": "auto_name__6"
         }
       ],
-      "legend": "What are you claiming for?"
+      "legend": "What are you claiming for?",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "what-are-you-claiming-for"
