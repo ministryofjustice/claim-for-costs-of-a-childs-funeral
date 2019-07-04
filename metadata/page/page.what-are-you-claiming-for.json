@@ -17,37 +17,37 @@
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__1",
           "_type": "checkbox",
           "label": "A coffin, shroud, casket or other covering",
-          "name": "auto_name__1"
+          "name": "coffin_shroud_casket_covering"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__2",
           "_type": "checkbox",
           "label": "Removal of implanted medical devices for a cremation",
-          "name": "auto_name__2"
+          "name": "implanted_medical_device"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__3",
           "_type": "checkbox",
           "label": "A private post mortem when required by a medical referee",
-          "name": "auto_name__3"
+          "name": "private_post_mortem"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
           "label": "Completion of cremation certificate (when not claimed by the cremation authority)",
-          "name": "auto_name__4"
+          "name": "cremation_certificate"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__5",
           "_type": "checkbox",
           "label": "Something for storing ashes if the one returned to you is unsuitable for its location",
-          "name": "auto_name__5"
+          "name": "storing_ashes"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__6",
           "_type": "checkbox",
           "label": "Fees charged by a third-party grave digger",
-          "name": "auto_name__6"
+          "name": "grace_digger"
         }
       ],
       "legend": "What are you claiming for?",
