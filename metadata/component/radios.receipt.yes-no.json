@@ -1,0 +1,21 @@
+{
+  "_id": "radios.receipt.yes-no",
+  "_type": "radios",
+  "items": [
+    {
+      "_id": "radios.receipt.yes-no.yes",
+      "_isa": "radio.yes",
+      "_type": "radio",
+      "value": "yes"
+    },
+    {
+      "_id": "radios.receipt.yes-no.no",
+      "_isa": "radio.no",
+      "_type": "radio",
+      "hint": "Your claim may take longer",
+      "value": "no"
+    }
+  ],
+  "legend": "Do you have receipts for [xxxxxxxxx]?",
+  "name": "receipt"
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "page.grave_digger",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.grave_digger--radios.yes-no",
+      "_isa": "radios.receipt.yes-no",
+      "_type": "radios",
+      "legend": "Do you have receipts for [the fees charged by a third-party grave digger]?",
+      "show": {
+        "identifier": "claim_grave_digger",
+        "operator": "defined"
+      }
+    }
+  ],
+  "enableSteps": true,
+  "namespace": "grave_digger",
+  "steps": [],
+  "url": "grave-digger"
+}

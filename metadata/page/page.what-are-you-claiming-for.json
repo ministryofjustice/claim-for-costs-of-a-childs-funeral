@@ -17,37 +17,37 @@
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__1",
           "_type": "checkbox",
           "label": "A coffin, shroud, casket or other covering",
-          "name": "coffin_shroud_casket_covering"
+          "name": "claim_coffin_shroud_casket_covering"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__2",
           "_type": "checkbox",
           "label": "Removal of implanted medical devices for a cremation",
-          "name": "implanted_medical_device"
+          "name": "claim_implanted_medical_device"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__3",
           "_type": "checkbox",
           "label": "A private post mortem when required by a medical referee",
-          "name": "private_post_mortem"
+          "name": "claim_private_post_mortem"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
           "label": "Completion of cremation certificate (when not claimed by the cremation authority)",
-          "name": "cremation_certificate"
+          "name": "claim_cremation_certificate"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__5",
           "_type": "checkbox",
           "label": "Something for storing ashes if the one returned to you is unsuitable for its location",
-          "name": "storing_ashes"
+          "name": "claim_storing_ashes"
         },
         {
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__6",
           "_type": "checkbox",
           "label": "Fees charged by a third-party grave digger",
-          "name": "grace_digger"
+          "name": "claim_grave_digger"
         }
       ],
       "legend": "What are you claiming for?",
@@ -55,6 +55,15 @@
         "required": true
       }
     }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page.coffin_shroud_casket_covering",
+    "page.implanted_medical_device",
+    "page.private_post_mortem",
+    "page.cremation_certificate",
+    "page.storing_ashes",
+    "page.grave_digger"
   ],
   "url": "what-are-you-claiming-for"
 }

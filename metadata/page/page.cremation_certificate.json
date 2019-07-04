@@ -1,0 +1,20 @@
+{
+  "_id": "page.cremation_certificate",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cremation_certificate--radios.yes-no",
+      "_isa": "radios.receipt.yes-no",
+      "_type": "radios",
+      "legend": "Do you have receipts for [the completion of cremation certificate]?",
+      "show": {
+        "identifier": "claim_cremation_certificate",
+        "operator": "defined"
+      }
+    }
+  ],
+  "enableSteps": true,
+  "namespace": "cremation_certificate",
+  "steps": [],
+  "url": "cremation-certificate"
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "page.coffin_shroud_casket_covering",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.coffin_shroud_casket_covering--radios.yes-no",
+      "_isa": "radios.receipt.yes-no",
+      "_type": "radios",
+      "legend": "Do you have receipts for [the coffin, shroud, casket or other covering]?",
+      "show": {
+        "identifier": "claim_coffin_shroud_casket_covering",
+        "operator": "defined"
+      }
+    }
+  ],
+  "enableSteps": true,
+  "namespace": "coffin_shroud_casket_covering",
+  "steps": [],
+  "url": "covering"
+}
