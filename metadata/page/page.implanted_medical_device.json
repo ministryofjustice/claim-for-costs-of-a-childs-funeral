@@ -15,6 +15,9 @@
   ],
   "enableSteps": true,
   "namespace": "implanted_medical_device",
-  "steps": [],
+  "steps": [
+    "page.implanted_medical_device.documentation",
+    "page.implanted_medical_device.no_documentation"
+  ],
   "url": "implanted-medical-device"
 }

@@ -1,0 +1,19 @@
+{
+  "_id": "page.private_post_mortem.documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.private_post_mortem.upload.fileupload",
+      "_isa": "fileupload.receipt",
+      "_type": "fileupload",
+      "label": "Upload your receipts for [private_post_mortem]",
+      "name": "documentation_private_post_mortem",
+      "show": {
+        "identifier": "receipt_private_post_mortem",
+        "operator": "is",
+        "value": "yes"
+      }
+    }
+  ],
+  "url": "upload"
+}

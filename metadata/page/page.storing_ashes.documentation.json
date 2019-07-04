@@ -1,0 +1,19 @@
+{
+  "_id": "page.storing_ashes.documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.storing_ashes.upload.fileupload",
+      "_isa": "fileupload.receipt",
+      "_type": "fileupload",
+      "label": "Upload your receipts for [storing_ashes]",
+      "name": "documentation_storing_ashes",
+      "show": {
+        "identifier": "receipt_storing_ashes",
+        "operator": "is",
+        "value": "yes"
+      }
+    }
+  ],
+  "url": "upload"
+}

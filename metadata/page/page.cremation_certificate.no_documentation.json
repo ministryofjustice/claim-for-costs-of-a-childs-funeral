@@ -1,0 +1,19 @@
+{
+  "_id": "page.cremation_certificate.no_documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cremation_certificate.no_documentation.textarea",
+      "_isa": "textarea.no-documentation",
+      "_type": "textarea",
+      "label": "Tell us why you don’t have receipts for [cremation_certificate]",
+      "name": "no_documentation_cremation_certificate",
+      "show": {
+        "identifier": "receipt_cremation_certificate",
+        "operator": "is",
+        "value": "no"
+      }
+    }
+  ],
+  "url": "no-documentation"
+}

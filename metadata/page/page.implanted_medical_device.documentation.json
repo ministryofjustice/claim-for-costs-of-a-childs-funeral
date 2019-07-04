@@ -1,0 +1,19 @@
+{
+  "_id": "page.implanted_medical_device.documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.implanted_medical_device.upload.fileupload",
+      "_isa": "fileupload.receipt",
+      "_type": "fileupload",
+      "label": "Upload your receipts for [implanted_medical_device]",
+      "name": "documentation_implanted_medical_device",
+      "show": {
+        "identifier": "receipt_implanted_medical_device",
+        "operator": "is",
+        "value": "yes"
+      }
+    }
+  ],
+  "url": "upload"
+}

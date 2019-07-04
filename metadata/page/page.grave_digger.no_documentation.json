@@ -1,0 +1,19 @@
+{
+  "_id": "page.grave_digger.no_documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.grave_digger.no_documentation.textarea",
+      "_isa": "textarea.no-documentation",
+      "_type": "textarea",
+      "label": "Tell us why you don’t have receipts for [grave_digger]",
+      "name": "no_documentation_grave_digger",
+      "show": {
+        "identifier": "receipt_grave_digger",
+        "operator": "is",
+        "value": "no"
+      }
+    }
+  ],
+  "url": "no-documentation"
+}

@@ -1,0 +1,6 @@
+{
+  "_id": "fileupload.receipt",
+  "_type": "fileupload",
+  "label": "Upload your receipts for [item]",
+  "name": "documentation"
+}

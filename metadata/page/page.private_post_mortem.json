@@ -15,6 +15,9 @@
   ],
   "enableSteps": true,
   "namespace": "private_post_mortem",
-  "steps": [],
+  "steps": [
+    "page.private_post_mortem.documentation",
+    "page.private_post_mortem.no_documentation"
+  ],
   "url": "private-post-mortem"
 }

@@ -1,0 +1,19 @@
+{
+  "_id": "page.coffin_shroud_casket_covering.documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.coffin_shroud_casket_covering.upload.fileupload",
+      "_isa": "fileupload.receipt",
+      "_type": "fileupload",
+      "label": "Upload your receipts for [coffin_shroud_casket_covering]",
+      "name": "documentation_coffin_shroud_casket_covering",
+      "show": {
+        "identifier": "receipt_coffin_shroud_casket_covering",
+        "operator": "is",
+        "value": "yes"
+      }
+    }
+  ],
+  "url": "upload"
+}

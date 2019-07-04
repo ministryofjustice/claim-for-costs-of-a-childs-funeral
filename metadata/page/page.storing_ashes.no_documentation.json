@@ -1,0 +1,19 @@
+{
+  "_id": "page.storing_ashes.no_documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.storing_ashes.no_documentation.textarea",
+      "_isa": "textarea.no-documentation",
+      "_type": "textarea",
+      "label": "Tell us why you don’t have receipts for [storing_ashes]",
+      "name": "no_documentation_storing_ashes",
+      "show": {
+        "identifier": "receipt_storing_ashes",
+        "operator": "is",
+        "value": "no"
+      }
+    }
+  ],
+  "url": "no-documentation"
+}

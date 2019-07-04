@@ -1,0 +1,19 @@
+{
+  "_id": "page.cremation_certificate.documentation",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cremation_certificate.upload.fileupload",
+      "_isa": "fileupload.receipt",
+      "_type": "fileupload",
+      "label": "Upload your receipts for [cremation_certificate]",
+      "name": "documentation_cremation_certificate",
+      "show": {
+        "identifier": "receipt_cremation_certificate",
+        "operator": "is",
+        "value": "yes"
+      }
+    }
+  ],
+  "url": "upload"
+}

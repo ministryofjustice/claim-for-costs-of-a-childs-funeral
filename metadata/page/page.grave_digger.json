@@ -15,6 +15,9 @@
   ],
   "enableSteps": true,
   "namespace": "grave_digger",
-  "steps": [],
+  "steps": [
+    "page.grave_digger.documentation",
+    "page.grave_digger.no_documentation"
+  ],
   "url": "grave-digger"
 }
