@@ -15,5 +15,13 @@
       "name": "fullname"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.full-name--details",
+      "_type": "details",
+      "html": "## Email\r\n\r\nBlah\r\n\r\n## Telephone\r\n\r\nBlah",
+      "summary": "Contact SSCL for help"
+    }
+  ],
   "url": "full-name"
 }
