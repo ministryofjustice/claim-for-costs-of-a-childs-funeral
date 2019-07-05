@@ -6,7 +6,9 @@
       "_id": "page.implanted_medical_device.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
-      "label": "Upload your receipts for [implanted_medical_device]",
+      "label": "Upload your receipts for the removal of an implanted medical device for a cremation",
+      "maxFiles": 3,
+      "minFiles": 1,
       "name": "documentation_implanted_medical_device",
       "show": {
         "identifier": "receipt_implanted_medical_device",

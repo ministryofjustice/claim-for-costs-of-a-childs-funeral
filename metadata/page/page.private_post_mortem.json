@@ -6,7 +6,7 @@
       "_id": "page.private_post_mortem--radios.yes-no",
       "_isa": "radios.receipt.yes-no",
       "_type": "radios",
-      "legend": "Do you have receipts for [a private post mortem when required by a medical referee]?",
+      "legend": "Do you have receipts for a private post mortem when required by a medical referee?",
       "show": {
         "identifier": "claim_private_post_mortem",
         "operator": "defined"

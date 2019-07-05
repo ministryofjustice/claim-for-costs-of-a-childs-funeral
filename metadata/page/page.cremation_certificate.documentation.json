@@ -6,7 +6,9 @@
       "_id": "page.cremation_certificate.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
-      "label": "Upload your receipts for [cremation_certificate]",
+      "label": "Upload your receipts for the completion of cremation certificate",
+      "maxFiles": 3,
+      "minFiles": 1,
       "name": "documentation_cremation_certificate",
       "show": {
         "identifier": "receipt_cremation_certificate",

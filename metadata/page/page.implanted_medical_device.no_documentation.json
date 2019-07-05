@@ -6,7 +6,7 @@
       "_id": "page.implanted_medical_device.no_documentation.textarea",
       "_isa": "textarea.no-documentation",
       "_type": "textarea",
-      "label": "Tell us why you don’t have receipts for [implanted_medical_device]",
+      "label": "Tell us why you don’t have receipts for the removal of an implanted medical device for a cremation",
       "name": "no_documentation_implanted_medical_device",
       "show": {
         "identifier": "receipt_implanted_medical_device",

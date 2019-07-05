@@ -6,7 +6,9 @@
       "_id": "page.coffin_shroud_casket_covering.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
-      "label": "Upload your receipts for [coffin_shroud_casket_covering]",
+      "label": "Upload your receipts for the coffin, shroud, casket or other covering",
+      "maxFiles": 3,
+      "minFiles": 1,
       "name": "documentation_coffin_shroud_casket_covering",
       "show": {
         "identifier": "receipt_coffin_shroud_casket_covering",

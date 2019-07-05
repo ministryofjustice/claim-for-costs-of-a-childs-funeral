@@ -6,7 +6,7 @@
       "_id": "page.implanted_medical_device--radios.yes-no",
       "_isa": "radios.receipt.yes-no",
       "_type": "radios",
-      "legend": "Do you have receipts for [the removal of implanted medical devices for a cremation]?",
+      "legend": "Do you have receipts for the removal of implanted medical devices for a cremation?",
       "show": {
         "identifier": "claim_implanted_medical_device",
         "operator": "defined"

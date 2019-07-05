@@ -6,7 +6,9 @@
       "_id": "page.storing_ashes.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
-      "label": "Upload your receipts for [storing_ashes]",
+      "label": "Upload your receipts for the item used for storing the ashes",
+      "maxFiles": 3,
+      "minFiles": 1,
       "name": "documentation_storing_ashes",
       "show": {
         "identifier": "receipt_storing_ashes",

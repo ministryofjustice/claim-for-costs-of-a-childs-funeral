@@ -6,7 +6,9 @@
       "_id": "page.private_post_mortem.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
-      "label": "Upload your receipts for [private_post_mortem]",
+      "label": "Upload your receipts for the private post mortem",
+      "maxFiles": 3,
+      "minFiles": 1,
       "name": "documentation_private_post_mortem",
       "show": {
         "identifier": "receipt_private_post_mortem",

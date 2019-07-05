@@ -6,7 +6,9 @@
       "_id": "page.grave_digger.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
-      "label": "Upload your receipts for [grave_digger]",
+      "label": "Upload your receipts for the fees charged by a third-party grave digger",
+      "maxFiles": 3,
+      "minFiles": 1,
       "name": "documentation_grave_digger",
       "show": {
         "identifier": "receipt_grave_digger",

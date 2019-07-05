@@ -6,7 +6,7 @@
       "_id": "page.cremation_certificate--radios.yes-no",
       "_isa": "radios.receipt.yes-no",
       "_type": "radios",
-      "legend": "Do you have receipts for [the completion of cremation certificate]?",
+      "legend": "Do you have receipts for the completion of cremation certificate?",
       "name": "receipt_cremation_certificate",
       "show": {
         "identifier": "claim_cremation_certificate",

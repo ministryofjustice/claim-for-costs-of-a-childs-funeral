@@ -6,7 +6,7 @@
       "_id": "page.cremation_certificate.no_documentation.textarea",
       "_isa": "textarea.no-documentation",
       "_type": "textarea",
-      "label": "Tell us why you don’t have receipts for [cremation_certificate]",
+      "label": "Tell us why you don’t have receipts for the completion of cremation certificate",
       "name": "no_documentation_cremation_certificate",
       "show": {
         "identifier": "receipt_cremation_certificate",
