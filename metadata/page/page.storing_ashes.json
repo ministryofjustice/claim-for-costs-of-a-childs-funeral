@@ -13,6 +13,7 @@
         }
       },
       "legend": "Do you have receipts for the item used for storing the ashes?",
+      "name": "receipt_storing_ashes",
       "show": {
         "identifier": "claim_storing_ashes",
         "operator": "defined"

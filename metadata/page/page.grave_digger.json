@@ -13,6 +13,7 @@
         }
       },
       "legend": "Do you have receipts for the fees charged by a third-party grave digger?",
+      "name": "receipt_grave_digger",
       "show": {
         "identifier": "claim_grave_digger",
         "operator": "defined"

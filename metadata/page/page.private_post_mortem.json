@@ -13,6 +13,7 @@
         }
       },
       "legend": "Do you have receipts for a private post mortem?",
+      "name": "receipt_private_post_mortem",
       "show": {
         "identifier": "claim_private_post_mortem",
         "operator": "defined"

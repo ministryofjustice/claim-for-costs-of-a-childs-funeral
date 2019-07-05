@@ -13,6 +13,7 @@
         }
       },
       "legend": "Do you have receipts for the removal of implanted medical devices for a cremation?",
+      "name": "receipt_implanted_medical_device",
       "show": {
         "identifier": "claim_implanted_medical_device",
         "operator": "defined"
