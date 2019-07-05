@@ -24,7 +24,7 @@
         }
       },
       "label": "Town or city",
-      "name": "town_or_city"
+      "name": "funeral_town_or_city"
     }
   ],
   "heading": "Where did the funeral take place?",
