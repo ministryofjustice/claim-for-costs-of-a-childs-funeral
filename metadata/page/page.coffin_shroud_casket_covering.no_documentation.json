@@ -6,6 +6,11 @@
       "_id": "page.coffin_shroud_casket_covering.no_documentation.textarea",
       "_isa": "textarea.no-documentation",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "summary": "Enter why you do not have receipts"
+        }
+      },
       "label": "Tell us why you don’t have receipts for the coffin, shroud, casket or other covering",
       "name": "no_documentation_coffin_shroud_casket_covering",
       "show": {

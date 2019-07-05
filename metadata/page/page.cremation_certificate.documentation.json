@@ -6,6 +6,12 @@
       "_id": "page.cremation_certificate.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
+      "errors": {
+        "required": {
+          "inline": "Select a receipt",
+          "summary": "Select a receipt"
+        }
+      },
       "label": "Upload your receipts for the completion of cremation certificate",
       "maxFiles": 3,
       "minFiles": 1,

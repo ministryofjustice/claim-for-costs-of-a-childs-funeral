@@ -6,6 +6,12 @@
       "_id": "page.grave_digger--radios.yes-no",
       "_isa": "radios.receipt.yes-no",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "inline": "Select yes if you have receipts for the fees charged by a third-party grave digger",
+          "summary": "Select yes if you have receipts for the fees charged by a third-party grave digger"
+        }
+      },
       "legend": "Do you have receipts for the fees charged by a third-party grave digger?",
       "show": {
         "identifier": "claim_grave_digger",

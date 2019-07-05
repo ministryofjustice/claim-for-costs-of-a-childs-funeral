@@ -6,6 +6,12 @@
       "_id": "page.private_post_mortem.no_documentation.textarea",
       "_isa": "textarea.no-documentation",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "inline": "Enter why you do not have receipts",
+          "summary": "Enter why you do not have receipts"
+        }
+      },
       "label": "Tell us why you don’t have receipts for the private post mortem",
       "name": "no_documentation_private_post_mortem",
       "show": {

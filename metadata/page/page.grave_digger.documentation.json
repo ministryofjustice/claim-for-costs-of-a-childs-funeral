@@ -6,6 +6,12 @@
       "_id": "page.grave_digger.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
+      "errors": {
+        "required": {
+          "inline": "Select a receipt",
+          "summary": "Select a receipt"
+        }
+      },
       "label": "Upload your receipts for the fees charged by a third-party grave digger",
       "maxFiles": 3,
       "minFiles": 1,

@@ -6,6 +6,12 @@
       "_id": "page.storing_ashes--radios.yes-no",
       "_isa": "radios.receipt.yes-no",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "inline": "Select yes if you have receipts for the item used for storing ashes",
+          "summary": "Select yes if you have receipts for the item used for storing ashes"
+        }
+      },
       "legend": "Do you have receipts for the item used for storing the ashes?",
       "show": {
         "identifier": "claim_storing_ashes",

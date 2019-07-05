@@ -6,6 +6,11 @@
       "_id": "page.coffin_shroud_casket_covering--radios.yes-no",
       "_isa": "radios.receipt.yes-no",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "summary": "Select yes if you have receipts for the coffin, shroud, casket or other covering"
+        }
+      },
       "legend": "Do you have receipts for the coffin, shroud, casket or other covering?",
       "name": "receipt_coffin_shroud_casket_covering",
       "show": {

@@ -6,6 +6,12 @@
       "_id": "page.grave_digger.no_documentation.textarea",
       "_isa": "textarea.no-documentation",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "inline": "Enter why you do not have receipts",
+          "summary": "Enter why you do not have receipts"
+        }
+      },
       "label": "Tell us why you don’t have receipts for the fees charged by a third-party grave digger",
       "name": "no_documentation_grave_digger",
       "show": {

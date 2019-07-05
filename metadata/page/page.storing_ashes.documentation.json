@@ -6,6 +6,12 @@
       "_id": "page.storing_ashes.upload.fileupload",
       "_isa": "fileupload.receipt",
       "_type": "fileupload",
+      "errors": {
+        "required": {
+          "inline": "Select a receipt",
+          "summary": "Select a receipt"
+        }
+      },
       "label": "Upload your receipts for the item used for storing the ashes",
       "maxFiles": 3,
       "minFiles": 1,
