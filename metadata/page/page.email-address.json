@@ -6,7 +6,7 @@
       "_id": "page.email-address--email.email",
       "_type": "email",
       "errors": {
-        "pattern": {
+        "format": {
           "inline": "Enter an email address in the correct format, like name@example.com",
           "summary": "Enter an email address in the correct format, like name@example.com"
         },
@@ -16,10 +16,7 @@
         }
       },
       "label": "Your email address",
-      "name": "email",
-      "validation": {
-        "pattern": "^\\w+@[a-zA-Z_]+?\\.[a-zA-Z]{2,3}$"
-      }
+      "name": "email"
     }
   ],
   "extraComponents": [
