@@ -21,7 +21,6 @@
     }
   ],
   "enableSteps": true,
-  "namespace": "storing_ashes",
   "steps": [
     "page.storing_ashes.documentation",
     "page.storing_ashes.no_documentation"
