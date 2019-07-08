@@ -60,6 +60,13 @@
       "widthClassInput": "full"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.non-uk-bank-account-details--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "heading": "Bank account details",
   "show": {
     "identifier": "how_do_you_want_to_be_paid",

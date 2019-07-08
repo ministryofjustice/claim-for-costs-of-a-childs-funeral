@@ -20,6 +20,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.implanted_medical_device--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "steps": [
     "page.implanted_medical_device.documentation",
     "page.implanted_medical_device.no_documentation"

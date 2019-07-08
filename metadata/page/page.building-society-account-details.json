@@ -60,6 +60,13 @@
       "widthClassInput": "5"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.building-society-account-details--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "heading": "Building society account details",
   "show": {
     "identifier": "how_do_you_want_to_be_paid",

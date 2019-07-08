@@ -22,5 +22,12 @@
       }
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.implanted_medical_device.documentation--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "upload"
 }

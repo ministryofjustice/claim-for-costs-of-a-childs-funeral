@@ -15,5 +15,12 @@
       "name": "date_of_funeral"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.date-of-funeral--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "date-of-funeral"
 }

@@ -23,6 +23,11 @@
       "_type": "details",
       "html": "Call [SSCL phoneline number] to make your claim if you do not have an email address",
       "summary": "I do not have an email address"
+    },
+    {
+      "_id": "page.email-address--details--2",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
     }
   ],
   "url": "email-address"

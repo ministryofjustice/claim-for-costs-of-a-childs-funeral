@@ -25,6 +25,13 @@
       "name": "funeral_town_or_city"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.funeral-location--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "heading": "Where did the funeral take place?",
   "url": "funeral-location"
 }

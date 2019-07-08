@@ -65,6 +65,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.what-are-you-claiming-for--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "steps": [
     "page.coffin_shroud_casket_covering",
     "page.implanted_medical_device",

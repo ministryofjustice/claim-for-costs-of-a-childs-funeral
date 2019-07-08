@@ -16,6 +16,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.date-of-birth--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "show": {
     "identifier": "is_stillborn",
     "operator": "is",

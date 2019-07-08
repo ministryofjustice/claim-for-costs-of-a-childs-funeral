@@ -15,5 +15,12 @@
       "name": "date_of_childs_death"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.date-of-childs-death--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "date-of-childs-death"
 }

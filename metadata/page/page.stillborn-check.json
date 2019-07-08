@@ -15,5 +15,12 @@
       "name": "is_stillborn"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.stillborn-check--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "stillborn-check"
 }

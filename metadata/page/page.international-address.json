@@ -15,6 +15,13 @@
       "name": "address_international"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.international-address--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "show": {
     "identifier": "is_address_uk",
     "operator": "is",

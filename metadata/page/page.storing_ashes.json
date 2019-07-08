@@ -20,6 +20,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.storing_ashes--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "steps": [
     "page.storing_ashes.documentation",
     "page.storing_ashes.no_documentation"

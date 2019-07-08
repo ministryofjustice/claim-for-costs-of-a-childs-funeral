@@ -20,6 +20,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.coffin_shroud_casket_covering--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "steps": [
     "page.coffin_shroud_casket_covering.documentation",
     "page.coffin_shroud_casket_covering.no_documentation"

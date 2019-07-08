@@ -58,6 +58,13 @@
       "widthClassInput": "10"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.address--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "heading": "What’s your home address?",
   "lede": "We’ll use this to pay your claim and contact you if we need to",
   "show": {

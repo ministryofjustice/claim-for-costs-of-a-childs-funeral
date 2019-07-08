@@ -20,5 +20,12 @@
       }
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.storing_ashes.no_documentation--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "no-documentation"
 }

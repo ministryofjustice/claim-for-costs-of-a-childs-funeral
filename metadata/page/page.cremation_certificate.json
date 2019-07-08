@@ -20,6 +20,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.cremation_certificate--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "steps": [
     "page.cremation_certificate.documentation",
     "page.cremation_certificate.no_documentation"

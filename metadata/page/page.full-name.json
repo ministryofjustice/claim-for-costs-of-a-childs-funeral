@@ -17,9 +17,8 @@
   "extraComponents": [
     {
       "_id": "page.full-name--details",
-      "_type": "details",
-      "html": "Send an email to **[cff@sscl.gse.gov.uk](mailto:cff@sscl.gse.gov.uk)** or call **[number]** if you need help with your claim.",
-      "summary": "Contact the claims team for help"
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
     }
   ],
   "url": "full-name"

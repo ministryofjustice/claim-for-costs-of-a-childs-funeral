@@ -15,6 +15,13 @@
       "name": "date_of_stillbirth"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.date-of-stillbirth--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "show": {
     "identifier": "is_stillborn",
     "operator": "is",

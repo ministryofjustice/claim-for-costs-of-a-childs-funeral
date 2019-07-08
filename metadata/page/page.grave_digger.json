@@ -20,6 +20,13 @@
     }
   ],
   "enableSteps": true,
+  "extraComponents": [
+    {
+      "_id": "page.grave_digger--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "steps": [
     "page.grave_digger.documentation",
     "page.grave_digger.no_documentation"

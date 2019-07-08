@@ -20,5 +20,12 @@
       }
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.cremation_certificate.no_documentation--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "no-documentation"
 }

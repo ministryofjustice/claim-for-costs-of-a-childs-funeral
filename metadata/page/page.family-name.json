@@ -14,5 +14,12 @@
       "name": "family_name"
     }
   ],
+  "extraComponents": [
+    {
+      "_id": "page.family-name--details",
+      "_isa": "details.claims-team-contact",
+      "_type": "details"
+    }
+  ],
   "url": "family-name"
 }
