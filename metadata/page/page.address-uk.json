@@ -8,8 +8,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "inline": "Select yes if your home address is in the UK",
-          "summary": "Select yes if your home address is in the UK"
+          "any": "Select yes if your home address is in the UK"
         }
       },
       "legend": "Is your home address in the UK?",

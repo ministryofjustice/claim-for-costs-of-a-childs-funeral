@@ -7,8 +7,7 @@
       "_type": "date",
       "errors": {
         "required": {
-          "inline": "Enter the child’s date of birth",
-          "summary": "Enter the child’s date of birth"
+          "any": "Enter the child’s date of birth"
         }
       },
       "hint": "For example, 12 11 2007",

@@ -7,8 +7,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter the family name of the child",
-          "summary": "Enter the family name of the child"
+          "any": "Enter the family name of the child"
         }
       },
       "label": "What’s the family name of the child?",

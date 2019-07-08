@@ -7,8 +7,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter the name of the cemetery or crematorium",
-          "summary": "Enter the name of the cemetery or crematorium"
+          "any": "Enter the name of the cemetery or crematorium"
         }
       },
       "label": "Name of the cemetery or crematorium",
@@ -19,8 +18,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter a town or city",
-          "summary": "Enter a town or city"
+          "any": "Enter a town or city"
         }
       },
       "label": "Town or city",

@@ -7,8 +7,7 @@
       "_type": "textarea",
       "errors": {
         "required": {
-          "inline": "Enter an address",
-          "summary": "Enter an address"
+          "any": "Enter an address"
         }
       },
       "hint": "We’ll use this to pay your claim and contact you if we need to",

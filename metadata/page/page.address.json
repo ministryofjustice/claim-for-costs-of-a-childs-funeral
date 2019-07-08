@@ -7,8 +7,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter a building and street",
-          "summary": "Enter a building and street"
+          "any": "Enter a building and street"
         }
       },
       "label": "Building and street",
@@ -29,8 +28,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter a town or city",
-          "summary": "Enter a town or city"
+          "any": "Enter a town or city"
         }
       },
       "label": "Town or city",
@@ -52,8 +50,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter a postcode",
-          "summary": "Enter a postcode"
+          "any": "Enter a postcode"
         }
       },
       "label": "Postcode",

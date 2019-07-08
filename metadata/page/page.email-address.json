@@ -7,12 +7,10 @@
       "_type": "email",
       "errors": {
         "format": {
-          "inline": "Enter an email address in the correct format, like name@example.com",
-          "summary": "Enter an email address in the correct format, like name@example.com"
+          "any": "Enter an email address in the correct format, like name@example.com"
         },
         "required": {
-          "inline": "Enter an email address",
-          "summary": "Enter an email address"
+          "any": "Enter an email address"
         }
       },
       "label": "Your email address",

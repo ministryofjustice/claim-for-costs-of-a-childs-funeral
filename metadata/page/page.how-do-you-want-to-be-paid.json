@@ -7,8 +7,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "inline": "Select how you want to be paid",
-          "summary": "Select how you want to be paid"
+          "any": "Select how you want to be paid"
         }
       },
       "hint": "You can only have your claim paid into your own bank or building society account",

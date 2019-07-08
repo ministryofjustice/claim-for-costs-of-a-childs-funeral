@@ -8,8 +8,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "inline": "Select yes if you have receipts for the completion of cremation certificate",
-          "summary": "Select yes if you have receipts for the completion of cremation certificate"
+          "any": "Select yes if you have receipts for the completion of cremation certificate"
         }
       },
       "legend": "Do you have receipts for the completion of cremation certificate?",

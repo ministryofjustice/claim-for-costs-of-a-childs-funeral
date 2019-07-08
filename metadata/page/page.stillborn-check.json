@@ -8,8 +8,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "inline": "Select yes if this claim is about a baby who was stillborn",
-          "summary": "Select yes if this claim is about a baby who was stillborn"
+          "any": "Select yes if this claim is about a baby who was stillborn"
         }
       },
       "legend": "Is this claim about a baby who was stillborn?",

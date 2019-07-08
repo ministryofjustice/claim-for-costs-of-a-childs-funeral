@@ -7,8 +7,7 @@
       "_type": "checkboxes",
       "errors": {
         "required": {
-          "inline": "Select what you’re claiming for",
-          "summary": "Select what you’re claiming for"
+          "any": "Select what you’re claiming for"
         }
       },
       "hint": "Select all that apply",

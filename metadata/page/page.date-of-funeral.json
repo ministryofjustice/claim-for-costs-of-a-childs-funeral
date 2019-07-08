@@ -7,8 +7,7 @@
       "_type": "date",
       "errors": {
         "required": {
-          "inline": "Enter the date of funeral",
-          "summary": "Enter the date of funeral"
+          "any": "Enter the date of funeral"
         }
       },
       "hint": "For example, 12 11 2007. Claims must be submitted within 6 months of this date",

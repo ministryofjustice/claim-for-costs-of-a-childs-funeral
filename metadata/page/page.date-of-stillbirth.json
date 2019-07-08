@@ -7,8 +7,7 @@
       "_type": "date",
       "errors": {
         "required": {
-          "inline": "Enter the date of stillbirth",
-          "summary": "Enter the date of stillbirth"
+          "any": "Enter the date of stillbirth"
         }
       },
       "hint": "For example, 12 11 2007",

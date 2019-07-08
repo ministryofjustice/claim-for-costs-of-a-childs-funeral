@@ -7,8 +7,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter your full name",
-          "summary": "Enter your full name"
+          "any": "Enter your full name"
         }
       },
       "label": "Your full name",

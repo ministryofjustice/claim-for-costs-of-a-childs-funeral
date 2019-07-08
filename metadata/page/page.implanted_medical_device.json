@@ -8,8 +8,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "inline": "Select yes if you have receipts for the removal of implanted medical device for cremation",
-          "summary": "Select yes if you have receipts for the removal of implanted medical device for cremation"
+          "any": "Select yes if you have receipts for the removal of implanted medical device for cremation"
         }
       },
       "legend": "Do you have receipts for the removal of implanted medical devices for a cremation?",

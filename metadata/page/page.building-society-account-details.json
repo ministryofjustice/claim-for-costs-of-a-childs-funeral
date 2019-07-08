@@ -7,8 +7,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter name of building society",
-          "summary": "Enter name of building society"
+          "any": "Enter name of building society"
         }
       },
       "label": "Name of building society",
@@ -19,8 +18,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter account name",
-          "summary": "Enter account name"
+          "any": "Enter account name"
         }
       },
       "label": "Account name",
@@ -31,8 +29,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter account number",
-          "summary": "Enter account number"
+          "any": "Enter account number"
         }
       },
       "label": "Account number",
@@ -55,8 +52,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter sort code",
-          "summary": "Enter sort code"
+          "any": "Enter sort code"
         }
       },
       "label": "Sort code",

@@ -8,8 +8,7 @@
       "_type": "fileupload",
       "errors": {
         "required": {
-          "inline": "Select a receipt",
-          "summary": "Select a receipt"
+          "any": "Select a receipt"
         }
       },
       "label": "Upload your receipts for the coffin, shroud, casket or other covering",

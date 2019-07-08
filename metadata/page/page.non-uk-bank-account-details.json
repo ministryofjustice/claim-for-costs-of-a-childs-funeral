@@ -7,8 +7,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter name of bank",
-          "summary": "Enter name of bank"
+          "any": "Enter name of bank"
         }
       },
       "label": "Name of bank",
@@ -19,8 +18,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter account name",
-          "summary": "Enter account name"
+          "any": "Enter account name"
         }
       },
       "label": "Account name",
@@ -31,8 +29,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter international bank account number",
-          "summary": "Enter international bank account number"
+          "any": "Enter international bank account number"
         }
       },
       "label": "International bank account number (IBAN)",
@@ -43,8 +40,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter SWIFT, BIC or routing code",
-          "summary": "Enter SWIFT, BIC or routing code"
+          "any": "Enter SWIFT, BIC or routing code"
         }
       },
       "label": "SWIFT, BIC or routing code",
@@ -56,8 +52,7 @@
       "_type": "text",
       "errors": {
         "required": {
-          "inline": "Enter currency of account",
-          "summary": "Enter currency of account"
+          "any": "Enter currency of account"
         }
       },
       "label": "Currency of account",
