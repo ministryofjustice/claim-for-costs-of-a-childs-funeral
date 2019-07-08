@@ -19,8 +19,8 @@
     {
       "_id": "page.full-name--details",
       "_type": "details",
-      "html": "## Email\r\n\r\nBlah\r\n\r\n## Telephone\r\n\r\nBlah",
-      "summary": "Contact SSCL for help"
+      "html": "Send an email to **[cff@sscl.gse.gov.uk](mailto:cff@sscl.gse.gov.uk)** or call **[number]** if you need help with your claim.",
+      "summary": "Contact the claims team for help"
     }
   ],
   "url": "full-name"
