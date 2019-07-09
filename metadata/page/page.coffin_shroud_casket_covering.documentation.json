@@ -11,6 +11,7 @@
           "any": "Select a receipt"
         }
       },
+      "hint": "You can upload your receipts as scanned copies or photos of the originals",
       "label": "Upload your receipts for the coffin, shroud, casket or other covering",
       "maxFiles": 3,
       "minFiles": 1,
