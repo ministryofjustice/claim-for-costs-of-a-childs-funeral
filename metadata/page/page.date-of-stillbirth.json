@@ -11,7 +11,7 @@
         }
       },
       "hint": "For example, 12 11 2007",
-      "label": "Date of still birth",
+      "label": "Date of stillbirth",
       "name": "date_of_stillbirth"
     }
   ],
