@@ -1,15 +1,14 @@
 {
   "_id": "page.confirmation",
   "_type": "page.confirmation",
-  "body": "We’ve sent a confirmation to [email address].",
+  "body": "We’ve sent a confirmation to {email_address}.",
   "components": [
     {
       "_id": "page.confirmation--content",
       "_type": "content",
-      "html": "## What happens next\r\n\r\nThe claim team will let you know they’ve received your claim within 5 working days. \r\n\r\nThey’ll then process your claim within a further 15 working days and let you know the outcome.\r\n\r\nThey’ll contact you if there’s anything missing and your claim may take longer. \r\n\r\nIf you need help with your claim you can call [SSCL phoneline number] or email cff@sscl.gse.gov.uk.\r\n\r\n\r\n## Support organisations\r\nThe following organisations give support and advice:\r\n\r\n- Child Bereavement UK\r\n- Cruse Bereavement Care\r\n- Sands\r\n- Tommy’s"
+      "html": "## What happens next\r\n\r\nThe claim team will let you know they’ve received your claim within 5 working days. \r\n\r\nThey’ll then process your claim within a further 15 working days and let you know the outcome.\r\n\r\nThey’ll contact you if there’s anything missing and your claim may take longer. \r\n\r\nIf you need help with your claim you can call freephone 0808 196 1759 (outside UK: +44 1633 630904) or email cff@sscl.gse.gov.uk.\r\n\r\n## Support organisations\r\n\r\nThe following organisations give support and advice:\r\n\r\n- [Child Bereavement UK](https://www.childbereavementuk.org/)\r\n- [Cruse Bereavement Care](https://www.cruse.org.uk/)\r\n- [Sands](https://www.sands.org.uk/)\r\n- [Tommy’s](http://www.tommys.org/)\r\n\r\nGive us your feedback on this service by emailing [claim.for.costs.of.a.childs.funeral@justice.gov.uk](mailto:claim.for.costs.of.a.childs.funeral@justice.gov.uk)."
     }
   ],
   "heading": "Your claim has been submitted",
-  "lede": "Your reference number **{submissionId}**",
   "url": "confirmation"
 }

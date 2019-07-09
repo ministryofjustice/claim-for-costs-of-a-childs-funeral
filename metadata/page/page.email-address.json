@@ -14,7 +14,7 @@
         }
       },
       "label": "Your email address",
-      "name": "email"
+      "name": "email_address"
     }
   ],
   "extraComponents": [
