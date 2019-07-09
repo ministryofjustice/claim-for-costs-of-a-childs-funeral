@@ -1,8 +1,0 @@
-{
-  "_id": "service",
-  "_isa": "@ministryofjustice/fb-components-core=>service",
-  "_type": "config.service",
-  "name": "Claim for costs of a child’s funeral",
-  "phase": "alpha",
-  "phaseText": "Service phase text goes here"
-}
