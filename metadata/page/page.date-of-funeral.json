@@ -6,13 +6,22 @@
       "_id": "page.date-of-funeral--date.auto_name__1",
       "_type": "date",
       "errors": {
+        "date.invalid": {
+          "any": "Enter a real date of funeral"
+        },
         "required": {
           "any": "Enter the date of funeral"
         }
       },
       "hint": "For example, 12 11 2007. Claims must be submitted within 6 months of this date",
       "label": "Date of funeral",
-      "name": "date_of_funeral"
+      "name": "date_of_funeral",
+      "validation": {
+        "dateWithinNext": {
+          "amount": 0,
+          "unit": "months"
+        }
+      }
     }
   ],
   "extraComponents": [

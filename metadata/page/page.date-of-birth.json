@@ -6,13 +6,22 @@
       "_id": "page.date-of-birth--date.auto_name__1",
       "_type": "date",
       "errors": {
+        "date.invalid": {
+          "any": "Enter a real child’s date of birth "
+        },
         "required": {
           "any": "Enter the child’s date of birth"
         }
       },
       "hint": "For example, 12 11 2007",
       "label": "Child’s date of birth",
-      "name": "date_of_birth"
+      "name": "date_of_birth",
+      "validation": {
+        "dateWithinNext": {
+          "amount": 0,
+          "unit": "months"
+        }
+      }
     }
   ],
   "enableSteps": true,

@@ -6,13 +6,22 @@
       "_id": "page.date-of-childs-death--date.auto_name__1",
       "_type": "date",
       "errors": {
+        "date.invalid": {
+          "any": "Enter a real date of child’s death"
+        },
         "required": {
           "any": "Enter the date of child’s death"
         }
       },
       "hint": "For example, 12 11 2007",
       "label": "Date of child’s death",
-      "name": "date_of_childs_death"
+      "name": "date_of_childs_death",
+      "validation": {
+        "dateWithinNext": {
+          "amount": 0,
+          "unit": "months"
+        }
+      }
     }
   ],
   "extraComponents": [
