@@ -19,7 +19,7 @@
       "validation": {
         "dateWithinNext": {
           "amount": 0,
-          "unit": "months"
+          "unit": "days"
         }
       }
     }
