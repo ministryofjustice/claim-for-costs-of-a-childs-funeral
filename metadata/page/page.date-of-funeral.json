@@ -13,7 +13,7 @@
           "any": "Enter the date of funeral"
         }
       },
-      "hint": "For example, 12 11 2007. Claims must be submitted within 6 months of this date",
+      "hint": "[% hint.date %]. Claims must be submitted within 6 months of this date",
       "label": "Date of funeral",
       "name": "date_of_funeral",
       "validation": {

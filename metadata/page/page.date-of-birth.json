@@ -13,7 +13,6 @@
           "any": "Enter the child’s date of birth"
         }
       },
-      "hint": "For example, 12 11 2007",
       "label": "Child’s date of birth",
       "name": "date_of_birth",
       "validation": {

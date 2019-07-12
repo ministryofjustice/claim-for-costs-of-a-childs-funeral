@@ -13,7 +13,6 @@
           "any": "Enter the date of child’s death"
         }
       },
-      "hint": "For example, 12 11 2007",
       "label": "Date of child’s death",
       "name": "date_of_childs_death",
       "validation": {
