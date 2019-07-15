@@ -8,7 +8,7 @@
       "_type": "details"
     }
   ],
-  "sendBody": "By submitting your claim you agree that:\r\n\r\n- the information is correct and complete as far as you know\r\n- you’ll pay back any money you’re overpaid if you’re asked to",
+  "sendBody": "By submitting your claim you agree that:\r\n\r\n- the information is correct and complete as far as you know\r\n- you’re aware it’s a criminal offence to knowingly submit false information to make a claim\r\n- you’ll pay back any money you have been overpaid if you’re asked to",
   "sendHeading": "Declaration",
   "url": "check-answers"
 }

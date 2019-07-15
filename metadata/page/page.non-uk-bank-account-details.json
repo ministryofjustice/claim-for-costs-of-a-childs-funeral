@@ -55,6 +55,7 @@
           "any": "Enter currency of account"
         }
       },
+      "hint": "For example, US dollar or euro",
       "label": "Currency of account",
       "name": "currency_of_account",
       "widthClassInput": "full"

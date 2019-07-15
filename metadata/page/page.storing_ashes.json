@@ -11,7 +11,7 @@
           "any": "Select yes if you have receipts for the item used for storing ashes"
         }
       },
-      "legend": "Do you have receipts for the item used for storing the ashes?",
+      "legend": "Do you have receipts for a container for storing ashes in a columbarium or similar?",
       "name": "receipt_storing_ashes",
       "show": {
         "identifier": "claim_storing_ashes",

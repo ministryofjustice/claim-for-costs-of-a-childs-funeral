@@ -11,6 +11,7 @@
           "any": "Select yes if this claim is about a baby who was stillborn"
         }
       },
+      "hint": "A stillbirth means after 24 weeks of pregnancy",
       "legend": "Is this claim about a baby who was stillborn?",
       "name": "is_stillborn"
     }

@@ -10,7 +10,7 @@
           "any": "Enter the name of the cemetery or crematorium"
         }
       },
-      "label": "Name of the cemetery or crematorium",
+      "label": "Name of the burial ground, cemetery or crematorium",
       "name": "name_of_cemetery_or_crematorium"
     },
     {

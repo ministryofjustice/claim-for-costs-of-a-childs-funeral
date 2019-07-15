@@ -11,7 +11,7 @@
           "any": "Enter why you do not have receipts"
         }
       },
-      "label": "Tell us why you don’t have receipts for the item used for storing the ashes",
+      "label": "Tell us why you don’t have receipts for a container for storing ashes in a columbarium or similar",
       "name": "no_documentation_storing_ashes",
       "show": {
         "identifier": "receipt_storing_ashes",

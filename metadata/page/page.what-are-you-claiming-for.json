@@ -10,7 +10,7 @@
           "any": "Select what you’re claiming for"
         }
       },
-      "hint": "Select all that apply",
+      "hint": "These are the expenses you can claim for. Select all that apply",
       "items": [
         {
           "$component": true,
@@ -18,7 +18,7 @@
           "$option": true,
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__1",
           "_type": "checkbox",
-          "label": "A coffin, shroud, casket or other covering",
+          "label": "Up to £300 towards a coffin, shroud, casket or other covering",
           "name": "claim_coffin_shroud_casket_covering"
         },
         {
@@ -36,7 +36,7 @@
           "$option": true,
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
-          "label": "Completion of cremation certificate (when not claimed by the cremation authority)",
+          "label": "Completion of necessary cremation certificates",
           "name": "claim_cremation_certificate"
         },
         {
@@ -45,7 +45,7 @@
           "$option": true,
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__5",
           "_type": "checkbox",
-          "label": "Something for storing ashes if the one returned to you is unsuitable for its location",
+          "label": "A container for storing ashes in a columbarium or similar (if the one returned to you is unsuitable for this)",
           "name": "claim_storing_ashes"
         },
         {
@@ -54,7 +54,7 @@
           "$option": true,
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__6",
           "_type": "checkbox",
-          "label": "Fees charged by a third-party grave digger",
+          "label": "Fees charged by a third-party grave digger (where these are not claimed by the burial or cremation authority)",
           "name": "claim_grave_digger"
         }
       ],
