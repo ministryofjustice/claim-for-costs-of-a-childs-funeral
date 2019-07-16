@@ -24,7 +24,6 @@
       "$definition": true,
       "_id": "page.cookies--table--seen_cookie_message",
       "_type": "table",
-      "caption": "Cookie seen message",
       "classes": "fb-table--cookie",
       "firstCellIsHeader": true,
       "head": [
@@ -73,7 +72,6 @@
       "$definition": true,
       "_id": "page.cookies--table--session",
       "_type": "table",
-      "caption": "Session cookie",
       "classes": "fb-table--cookie",
       "firstCellIsHeader": true,
       "head": [
@@ -121,7 +119,6 @@
     {
       "_id": "page.cookies--table--ga",
       "_type": "table",
-      "caption": "Universal Analytics cookies",
       "classes": "fb-table--cookie",
       "firstCellIsHeader": true,
       "head": [
@@ -188,7 +185,6 @@
     {
       "_id": "page.cookies--table--utma",
       "_type": "table",
-      "caption": "Google Analytics cookies",
       "classes": "fb-table--cookie",
       "firstCellIsHeader": true,
       "head": [
