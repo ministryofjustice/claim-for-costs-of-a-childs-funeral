@@ -30,15 +30,18 @@
       "head": [
         {
           "html": "Name",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         },
         {
           "html": "Purpose",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-half"
         },
         {
           "html": "Expires",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         }
       ],
       "rows": [
@@ -76,15 +79,18 @@
       "head": [
         {
           "html": "Name",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         },
         {
           "html": "Purpose",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-half"
         },
         {
           "html": "Expires",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         }
       ],
       "rows": [
@@ -121,15 +127,18 @@
       "head": [
         {
           "html": "Name",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         },
         {
           "html": "Purpose",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-half"
         },
         {
           "html": "Expires",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         }
       ],
       "rows": [
@@ -185,15 +194,18 @@
       "head": [
         {
           "html": "Name",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         },
         {
           "html": "Purpose",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-half"
         },
         {
           "html": "Expires",
-          "scope": "col"
+          "scope": "col",
+          "classes": "govuk-!-width-one-quarter"
         }
       ],
       "rows": [
