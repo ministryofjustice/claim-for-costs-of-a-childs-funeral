@@ -10,5 +10,6 @@
   "name": "Claim for costs of a child’s funeral",
   "pdfHeading": "Claim for costs of a child’s funeral",
   "phase": "beta",
-  "phaseText": "This is a new service – your [feedback](mailto:claim.for.costs.of.a.childs.funeral@digital.justice.gov.uk) will help us to improve it."
+  "phaseText": "This is a new service – your [feedback](mailto:claim.for.costs.of.a.childs.funeral@digital.justice.gov.uk) will help us to improve it.",
+  "serviceEmailAddress": "claim.for.costs.of.a.childs.funeral@digital.justice.gov.uk"
 }
