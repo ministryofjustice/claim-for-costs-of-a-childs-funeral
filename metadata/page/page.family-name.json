@@ -1,25 +1,36 @@
 {
-  "_id": "page.family-name",
-  "_type": "page.singlequestion",
+  "_id": "page.child-name",
+  "_type": "page.form",
   "components": [
     {
-      "_id": "page.family-name--text.auto_name__1",
+      "_id": "page.child-name--text.auto_name__1",
+      "_type": "text",
+      "validation": {
+        "required": false
+      },
+      "label": "First name",
+      "optionalText": "(if applicable)",
+      "name": "child_first_name"
+    },
+    {
+      "_id": "page.child-name--text.auto_name__2",
       "_type": "text",
       "errors": {
         "required": {
           "any": "Enter the family name of the child"
         }
       },
-      "label": "What’s the family name of the child?",
-      "name": "family_name"
+      "label": "Family name",
+      "name": "child_family_name"
     }
   ],
   "extraComponents": [
     {
-      "_id": "page.family-name--details",
+      "_id": "page.child-name--details",
       "_isa": "details.claims-team-contact",
       "_type": "details"
     }
   ],
-  "url": "family-name"
+  "heading": "What’s the family name of the child?",
+  "url": "child-name"
 }
