@@ -22,46 +22,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.cookies--table--seen_cookie_message",
-      "_type": "table",
-      "classes": "fb-table--cookie",
-      "firstCellIsHeader": true,
-      "head": [
-        {
-          "classes": "govuk-!-width-one-quarter",
-          "html": "Name",
-          "scope": "col"
-        },
-        {
-          "classes": "govuk-!-width-one-half",
-          "html": "Purpose",
-          "scope": "col"
-        },
-        {
-          "classes": "govuk-!-width-one-quarter",
-          "html": "Expires",
-          "scope": "col"
-        }
-      ],
-      "rows": [
-        [
-          {
-            "html": "seen_cookie_message",
-            "scope": "row"
-          },
-          {
-            "html": "Saves a message to let us know that you've seen our cookie message"
-          },
-          {
-            "html": "1 month"
-          }
-        ]
-      ]
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.cookies--table--session",
       "_type": "table",
       "classes": "fb-table--cookie",
