@@ -54,7 +54,7 @@
           "$option": true,
           "_id": "page.what-are-you-claiming-for--checkboxes--checkbox.auto_name__6",
           "_type": "checkbox",
-          "label": "Fees charged by a third-party grave digger (where these are not claimed by the burial or cremation authority)",
+          "label": "Fees charged by a third-party grave digger (where these are not claimed by the burial or cremation provider)",
           "name": "claim_grave_digger"
         }
       ],
