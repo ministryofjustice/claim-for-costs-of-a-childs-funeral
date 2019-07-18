@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "If you used a funeral director, you do not need to claim. There’s a [different claims process] for funeral directors and burial and cremation providers.",
+  "body": "If you used a funeral director, you do not need to claim. There’s a [different claims process](https://www.gov.uk/government/publications/claim-for-costs-of-a-childs-funeral-childrens-funeral-fund-for-england) for funeral directors and burial and cremation providers.",
   "extraComponents": [
     {
       "_id": "page.start--content",
