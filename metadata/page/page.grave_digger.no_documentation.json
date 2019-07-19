@@ -11,7 +11,7 @@
           "any": "Enter why you do not have receipts"
         }
       },
-      "label": "Tell us why you don’t have receipts for the fees charged by a third-party grave digger",
+      "label": "Tell us why you do not have receipts for the fees charged by a third-party grave digger",
       "name": "no_documentation_grave_digger",
       "show": {
         "identifier": "receipt_grave_digger",

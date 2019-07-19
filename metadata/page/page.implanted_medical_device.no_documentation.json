@@ -11,7 +11,7 @@
           "any": "Enter why you do not have receipts"
         }
       },
-      "label": "Tell us why you don’t have receipts for the removal of an implanted medical device for a cremation",
+      "label": "Tell us why you do not have receipts for the removal of an implanted medical device for a cremation",
       "name": "no_documentation_implanted_medical_device",
       "show": {
         "identifier": "receipt_implanted_medical_device",

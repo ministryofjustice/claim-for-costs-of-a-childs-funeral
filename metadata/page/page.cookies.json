@@ -64,7 +64,7 @@
       "$definition": true,
       "_id": "page.cookies--content--4",
       "_type": "content",
-      "html": "## Measuring website usage (Google Analytics)\r\n\r\nWe use Google Analytics software to collect information about how you use Claim for costs of a child’s funeral. We do this to help make sure the online form is meeting the needs of its users and to help us make improvements.\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page \r\n- how you got to the site\r\n- what you click on while you’re visiting the site\r\n\r\nWe don't collect or store your personal information (for example your name or address) so this information can't be used to identify who you are.\r\n\r\nWe don’t allow Google to use or share our analytics data.\r\n\r\nGoogle Analytics sets the following cookies:"
+      "html": "## Measuring website usage (Google Analytics)\r\n\r\nWe use Google Analytics software to collect information about how you use Claim for costs of a child’s funeral. We do this to help make sure the online form is meeting the needs of its users and to help us make improvements.\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page \r\n- how you got to the site\r\n- what you click on while you’re visiting the site\r\n\r\nWe do not collect or store your personal information (for example your name or address) so this information can't be used to identify who you are.\r\n\r\nWe do not allow Google to use or share our analytics data.\r\n\r\nGoogle Analytics sets the following cookies:"
     },
     {
       "$component": true,

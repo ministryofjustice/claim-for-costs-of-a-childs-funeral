@@ -11,7 +11,7 @@
           "any": "Enter why you do not have receipts"
         }
       },
-      "label": "Tell us why you don’t have receipts for the completion of cremation certificate",
+      "label": "Tell us why you do not have receipts for the completion of cremation certificate",
       "name": "no_documentation_cremation_certificate",
       "show": {
         "identifier": "receipt_cremation_certificate",

@@ -1,6 +1,6 @@
 {
   "_id": "textarea.no-documentation",
   "_type": "textarea",
-  "label": "Tell us why you don’t have receipts for [item]",
+  "label": "Tell us why you do not have receipts for [item]",
   "name": "no_documentation"
 }
