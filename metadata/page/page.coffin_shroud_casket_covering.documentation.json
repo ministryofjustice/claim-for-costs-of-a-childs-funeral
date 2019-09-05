@@ -30,7 +30,5 @@
       "_type": "details"
     }
   ],
-  "namespace": "whatevs",
-  "repeatable": true,
   "url": "upload"
 }
