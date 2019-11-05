@@ -13,6 +13,7 @@
           "any": "Enter the date of child’s death"
         }
       },
+      "legend": "Date of child’s death",
       "label": "Date of child’s death",
       "name": "date_of_childs_death",
       "validation": {
