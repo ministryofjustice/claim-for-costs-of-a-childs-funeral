@@ -14,7 +14,6 @@
         }
       },
       "legend": "Child’s date of birth",
-      "label": "Child’s date of birth",
       "name": "date_of_birth",
       "validation": {
         "dateWithinNext": {
