@@ -15,7 +15,6 @@
       },
       "hint": "[% hint.date %]. Claims must be submitted within 6 months of this date",
       "legend": "Date of funeral",
-      "label": "Date of funeral",
       "name": "date_of_funeral",
       "validation": {
         "dateWithinNext": {

@@ -14,7 +14,6 @@
         }
       },
       "legend": "Date of stillbirth",
-      "label": "Date of stillbirth",
       "name": "date_of_stillbirth",
       "validation": {
         "dateWithinNext": {
