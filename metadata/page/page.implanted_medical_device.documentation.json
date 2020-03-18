@@ -4,8 +4,8 @@
   "components": [
     {
       "_id": "page.implanted_medical_device.upload.fileupload",
+      "_type": "upload",
       "_isa": "fileupload.receipt",
-      "_type": "fileupload",
       "errors": {
         "required": {
           "any": "Select a receipt"
@@ -30,5 +30,9 @@
       "_type": "details"
     }
   ],
-  "url": "upload"
+  "url": "upload",
+  "steps": [
+    "page.implanted_medical_device.documentation-upload-check",
+    "page.implanted_medical_device.documentation-upload-summary"
+  ]
 }
