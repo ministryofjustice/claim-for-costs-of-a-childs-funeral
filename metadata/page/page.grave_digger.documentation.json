@@ -4,8 +4,8 @@
   "components": [
     {
       "_id": "page.grave_digger.upload.fileupload",
+      "_type": "upload",
       "_isa": "fileupload.receipt",
-      "_type": "fileupload",
       "errors": {
         "required": {
           "any": "Select a receipt"
@@ -30,5 +30,9 @@
       "_type": "details"
     }
   ],
-  "url": "upload"
+  "url": "upload",
+  "steps": [
+    "page.grave_digger.documentation-upload-check",
+    "page.grave_digger.documentation-upload-summary"
+  ]
 }
